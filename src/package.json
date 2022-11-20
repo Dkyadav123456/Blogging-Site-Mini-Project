@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Repository for backend cohort - Radon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dkyadav123456/Blogging-Site-Mini-Project.git"
+  },
+  "author": "Dharmendra Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dkyadav123456/Blogging-Site-Mini-Project.git/issues"
+  },
+  "homepage": "https://github.com/Dkyadav123456/Blogging-Site-Mini-Project.git#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.4.0",
+    "nodemon": "^2.0.18"
+  }
+}
